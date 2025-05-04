@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 goodbye coding 👋
 <img align="right" height="100" src="./.images/chaien.jpeg">
 
