@@ -31,5 +31,5 @@ MIT © [Kim Cuong](https://github.com/103cuong)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🐯
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
