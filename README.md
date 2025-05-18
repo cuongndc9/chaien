@@ -29,4 +29,3 @@ console.log(code(10))
 
 MIT © [Kim Cuong](https://github.com/103cuong)
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nAction beats perfection.\n🐯\n<!-- INSPIRATIONAL_QUOTE_END -->
