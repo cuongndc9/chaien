@@ -29,5 +29,5 @@ MIT © [Cuong Nguyen](https://github.com/cuongndc9)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 <!-- INSPIRATIONAL_QUOTE_END -->
