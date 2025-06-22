@@ -29,5 +29,5 @@ MIT © [Cuong Nguyen](https://github.com/cuongndc9)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 <!-- INSPIRATIONAL_QUOTE_END -->
