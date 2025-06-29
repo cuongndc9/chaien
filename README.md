@@ -29,5 +29,5 @@ MIT © [Cuong Nguyen](https://github.com/cuongndc9)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+> "We may encounter many defeats but we must not be defeated." - Maya Angelou
 <!-- INSPIRATIONAL_QUOTE_END -->
